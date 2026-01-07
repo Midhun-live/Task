@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import mid from './mid.png';
 import './App.css';
 
 function App() {
